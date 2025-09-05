@@ -1,2 +1,65 @@
-# aeGenomicsCourse2025
-This repo is the a course homepage for a PhD course in ancient environmental genomics
+# Short course description
+The Ancient Environmental Genomics Course is an intensive eight-day PhD-level program introducing participants to the study of ancient environmental DNA (eDNA). This genetic material is preserved outside of bones and teeth, often embedded in sediments, ice, or other natural archives. Fragile and fragmentary, it provides unique windows into past ecosystems, revealing information about species that once lived, interacted, and disappeared.
+
+The course will discuss the diverse materials that can yield ancient eDNA, such as permafrost soils, lake sediments, ice cores, cave deposits, artifacts, dental calculus, and coprolites. Each archive type offers distinct preservation conditions and scientific opportunities, and you will gain hands-on experience in how to approach and interpret them.
+
+Our goal is to equip you with the skills to analyze complex mixtures of ancient DNA and reconstruct past biodiversity. You will learn how to identify microbes, plants, animals, and humans through taxonomic profiling, organelle-based methods, and nuclear DNA analyses. The program will also emphasize best practices for documenting, reporting, and communicating your results, preparing you to contribute confidently to the growing field of ancient environmental genomics.
+
+# Practical information and updates
+
+## Course-responsible contact details
+
+
+Mikkel Winther Pedersen,
+mail: mwpedersen@sund.ku.dk,
+phone/whatsapp: +45 2927 5342
+
+
+## Where and When
+**Sunday, September 21st**
+
+- Natural History Museum of Denmark, Oester Voldgade 5-7. Main auditorium. (13-17) [direction](https://maps.app.goo.gl/BweF29XdBgKFoSxU6)
+
+
+**Monday, September 22nd**
+
+- CSS 22.0.19 (9-13) and CSS 7.0.01 (13-17)  [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+
+
+**Tusday, September 23rd**
+
+- CSS 2.0.30 (9-13) and CSS 7.0.01 (13-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+
+
+**Wednesday, September 24th**
+
+- CSS 35.3.20 - Faculty Lounge [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+
+
+**Thursday, September 25th**
+
+- CSS 35.3.20 - Faculty Lounge. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+
+
+**Friday, September 26th**
+
+- CSS 35.3.20 - Faculty Lounge. (9-16) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+
+
+
+# Social events
+
+Sunday September 21st, 17-19, Ice breaker drinks and snacks at the Natural History Museum of Denmark.
+
+
+# Curriculum
+
+[Papers](/papers/curriculum.md)
+
+# GitHub repositories
+
+[GitHub repos](/GitHub_repos/README.md)
+
+# Case
+
+[Case study](/Case/Letter.pdf)
