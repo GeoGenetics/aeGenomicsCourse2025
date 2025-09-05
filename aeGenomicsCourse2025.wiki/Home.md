@@ -43,5 +43,5 @@ Simply click on the respective day to access its content:
   - [Presentations](Day-6#group-presentations)
   - [Repo review and feedback](Day-6#group-repositories-review-and-feedback)
 
-- [Day ?](Day-?)
+- [Day 6](Day-6)
   - [Lab tour](Day-6#lab-tour)
