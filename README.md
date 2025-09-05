@@ -65,7 +65,7 @@ Sunday September 21st, 17-19, Ice breaker drinks and snacks at the Natural Histo
 [Case study](/Case/Letter.pdf)
 
 
-# Schedule
+# Schedule
 
 Note: The days will contain alternations between ‘talks’ and tutorials, these will be interwoven in-between each other and it is therefore not outlined here.
 1.	Day 1 – 1pm-5pm (21nd September): Welcome, intro to the ancient environmental DNA summer course, computational cloud setup, github + github classroom introduction, 2-min introduction to student's projects/datasets (Pete Heintzman & Mikkel W. Pedersen). 
@@ -74,8 +74,6 @@ Note: The days will contain alternations between ‘talks’ and tutorials, thes
 4.	Day 4 - 8am-5pm (24th September): Lecture on Eukaryotic profiling, ancient DNA estimation, extraction of ‘ancient/damages) reads, consensus genome generation, phylogenetic placement and analysis, and measure of the split time. Practicals: mapping, LCA, damage, Environmental Genome Assembly, PanGenomeGraphs, Phylogenetic placement, database building and choice, Data wrangling and documentation. Hands-on Eukaryotic ancient eDNA data. Lecture on hominin DNA from ancient sediments and hands-on (Mikkel WP & Benjamin Vernot). 
 5.	Day 5 - 8am-5pm (25th September): Introduction to Prokaryotic analysis from marine, lakes, caves, Ice etc. Ancient vs living communities. Unknowns, MAGs, Databases, Function, Binning, Hands-on exercises (Mateu Menendez-Serra). 
 6.	Day 7 - 8am-5pm (26th September): Diseases, viruses and bacterial pathogens, how best to catch’em. Hand-on exercises (Martin Sikora). Lectures on guide and explain standards and best practices for documenting and reporting analysis and results, and eventually making these publicly available. Evaluation and summarising (Mikkel WP, Martin Sikora).
-
-<img width="451" height="498" alt="image" src="https://github.com/user-attachments/assets/fca4b92e-2ea9-4817-a2f1-e14139340d96" />
 
 
 
