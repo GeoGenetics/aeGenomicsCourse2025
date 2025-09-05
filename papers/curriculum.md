@@ -1,6 +1,6 @@
 # Literature
 
-[Arboll et al. 2023](/aeGenomicsCourse2025/papers/Arboll2023.pdf)
+[Arboll et al. 2023](https://github.com/GeoGenetics/aeGenomicsCourse2025/tree/main/papers/Arboll2023.pdf)
 
 [Capo et al. 2022](/aeGenomicsCourse/papers/Capo2022.pdf)
 
