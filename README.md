@@ -1,9 +1,9 @@
 # Short course description
 The Ancient Environmental Genomics Course is an intensive six-day PhD-level program introducing participants to the study of ancient environmental DNA (eDNA). This genetic material is preserved outside of bones and teeth, often embedded in sediments, ice, or other natural archives. Damaged and fragmentary, it provides unique windows into past ecosystems, revealing information about species that once persisted, interacted, and some disappeared.
 
-The course will discuss the diverse materials that can yield ancient eDNA, such as permafrost soils, lake sediments, ice cores, cave deposits, artifacts, dental calculus, and coprolites. Each archive type offers distinct preservation conditions and scientific opportunities, and you will gain hands-on experience in how to approach and interpret them.
+The course will discuss the diverse materials that can yield ancient eDNA, such as permafrost soils, lake sediments, ice cores, cave deposits, artifacts, dental calculus, and coprolites. Each archive type offers distinct preservation conditions and scientific opportunities, and you will gain hands-on experience in how to approach and work with this complex type of data..
 
-Our goal is to equip you with the skills to analyze complex mixtures of ancient DNA and reconstruct past biodiversity. You will learn how to identify microbes, plants, animals, and humans through taxonomic profiling, organelle-based methods, and nuclear DNA analyses. The program will also emphasize best practices for documenting, reporting, and communicating your results, preparing you to contribute confidently to the growing field of ancient environmental genomics.
+Our goal is to introduce you to the skills to analyze complex mixtures of ancient DNA and reconstruct past biodiversity. You will learn how to identify microbes, plants, animals, and humans through taxonomic profiling, organelle-based methods, and nuclear DNA analyses. The course will also emphasize best practices for documenting, reporting, and communicating your results, preparing you to contribute confidently to the growing field of ancient environmental genomics.
 
 # Practical information and updates
 
