@@ -1,4 +1,5 @@
 # Literature
+Below is a list of papers, which includes good examples of how ancient environmental DNA was used to study past environments. On the Holi github (repo)[https://github.com/miwipe/Holi] you can find a more exhaustive list of all articles that have used shotgun and/or capture enrichment of DNA from ancient environmental samples. Here you will also find, simple plots that illustrates their spatial distribution as well as number of publications over the years.
 
 [Arboll et al. 2023](https://github.com/GeoGenetics/aeGenomicsCourse2025/tree/main/papers/Arboll2023.pdf)
 
