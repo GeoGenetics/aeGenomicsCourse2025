@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[assets/banner.png](https://github.com/GeoGenetics/aeGenomicsCourse2025/blob/main/assets/img/analysis.png)" alt="Course Logo" width="100%">
+  <img src="[https://github.com/GeoGenetics/aeGenomicsCourse2025/blob/main/assets/img/analysis.png]" alt="Course Logo" width="100%">
 </p>
 
 # Short course description
