@@ -1,6 +1,7 @@
 
-
-![Course Logo](https://github.com/GeoGenetics/aeGenomicsCourse2025/blob/main/assets/img/analysis.png)
+<p align="center">
+  <img src="[assets/banner.png](https://github.com/GeoGenetics/aeGenomicsCourse2025/blob/main/assets/img/analysis.png)" alt="Course Logo" width="100%">
+</p>
 
 # Short course description
 The Ancient Environmental Genomics Course is an intensive six-day PhD-level program introducing participants to the study of ancient environmental DNA (eDNA). This genetic material is preserved outside of bones and teeth, often embedded in sediments, ice, or other natural archives. Damaged and fragmentary, it provides unique windows into past ecosystems, revealing information about species that once persisted, interacted, and some disappeared.
