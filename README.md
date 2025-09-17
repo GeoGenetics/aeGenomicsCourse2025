@@ -28,17 +28,17 @@ phone/whatsapp: +45 2927 5342
 
 **Monday, September 22nd**
 
-- CSS 22.0.19 (9-13) and CSS 7.0.01 (13-17)  [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+- CSS 35.3.20 - Faculty Lounge. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
 
 
 **Tusday, September 23rd**
 
-- CSS 2.0.30 (9-13) and CSS 7.0.01 (13-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+- CSS 35.3.20 - Faculty Lounge. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
 
 
 **Wednesday, September 24th**
 
-- CSS 35.3.20 - Faculty Lounge [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+- CSS 35.3.20 - Faculty Lounge. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
 
 
 **Thursday, September 25th**
