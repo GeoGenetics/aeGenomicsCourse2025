@@ -28,27 +28,27 @@ phone/whatsapp: +45 2927 5342
 
 **Monday, September 22nd**
 
-- CSS 35.3.20 - Faculty Lounge. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+- CSS 35.3.20 - Faculty Lounge. Gammeltoftsgade 13, 1355 København. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
 
 
 **Tusday, September 23rd**
 
-- CSS 35.3.20 - Faculty Lounge. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+- CSS 35.3.20 - Faculty Lounge. Gammeltoftsgade 13, 1355 København. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
 
 
 **Wednesday, September 24th**
 
-- CSS 35.3.20 - Faculty Lounge. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+- CSS 35.3.20 - Faculty Lounge. Gammeltoftsgade 13, 1355 København. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
 
 
 **Thursday, September 25th**
 
-- CSS 35.3.20 - Faculty Lounge. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+- CSS 35.3.20 - Faculty Lounge. Gammeltoftsgade 13, 1355 København. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
 
 
 **Friday, September 26th**
 
-- CSS 35.3.20 - Faculty Lounge. (9-16) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+- CSS 35.3.20 - Faculty Lounge. Gammeltoftsgade 13, 1355 København. (9-16) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
 
 
 
