@@ -8,6 +8,10 @@ Remember to read the introduction to GitHub [here](https://github.com/GeoGenetic
 
 [BAM filter](https://github.com/genomewalker/bam-filter)
 
+[unicorn](https://github.com/GeoGenetics/unicorn)
+
+[metaDMG](https://github.com/metaDMG-dev/metaDMG-cpp)
+
 ## Publications
 [2-million-year-old DNA](https://github.com/miwipe/KapCopenhagen)
 
