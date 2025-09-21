@@ -28,33 +28,34 @@ phone/whatsapp: +45 2927 5342
 
 **Monday, September 22nd**
 
-- CSS 35.3.20 - Faculty Lounge. Gammeltoftsgade 13, 1355 København. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+- CSS 35.3.20 - Faculty Lounge. Gammeltoftsgade 13, 1355 København. (9-17) [direction](https://maps.app.goo.gl/E7i3jTu6h7UroTNSA)
 
 
 **Tusday, September 23rd**
 
-- CSS 35.3.20 - Faculty Lounge. Gammeltoftsgade 13, 1355 København. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+- CSS 35.3.20 - Faculty Lounge. Gammeltoftsgade 13, 1355 København. (9-17) [direction](https://maps.app.goo.gl/E7i3jTu6h7UroTNSA)
 
 
 **Wednesday, September 24th**
 
-- CSS 35.3.20 - Faculty Lounge. Gammeltoftsgade 13, 1355 København. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+- CSS 35.3.20 - Faculty Lounge. Gammeltoftsgade 13, 1355 København. (9-17) [direction](https://maps.app.goo.gl/E7i3jTu6h7UroTNSA)
 
 
 **Thursday, September 25th**
 
-- CSS 35.3.20 - Faculty Lounge. Gammeltoftsgade 13, 1355 København. (9-17) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+- CSS 35.3.20 - Faculty Lounge. Gammeltoftsgade 13, 1355 København. (9-17) [direction](https://maps.app.goo.gl/E7i3jTu6h7UroTNSA)
 
 
 **Friday, September 26th**
 
-- CSS 35.3.20 - Faculty Lounge. Gammeltoftsgade 13, 1355 København. (9-16) [direction](https://healthsciences.ku.dk/res/pdf/maps/css.pdf)
+- CSS 35.3.20 - Faculty Lounge. Gammeltoftsgade 13, 1355 København. (9-16) [direction](https://maps.app.goo.gl/E7i3jTu6h7UroTNSA)
 
 
 
 # Social events
 
 Sunday September 21st, 17-19, Ice breaker drinks and snacks at the Natural History Museum of Denmark.
+Potential tour for beers Wednesday? 
 
 
 # Curriculum
